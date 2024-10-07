@@ -61,6 +61,19 @@ The MySQL database for this project contains the following tables:
 4. Create the required **MySQL database** and tables (`users`, `products`, `orders`, `payments`).
 5. Access the project through `http://localhost/ecommerce-system/`.
 
----
+### Screenshots:
+## Signup Page 
+![Screenshot (288)](https://github.com/user-attachments/assets/429bf3d6-1ab9-4519-a808-41f1860c411b)
+## Login Page 
 
-This structured description can be used in your GitHub repository to clearly explain the project and its features. Let me know if you need more assistance!
+![Screenshot (289)](https://github.com/user-attachments/assets/817a3c4e-8deb-415e-a03d-cde93cdf1cce)
+## Vendor Page
+![Screenshot (290)](https://github.com/user-attachments/assets/9bd13760-9531-464a-819b-bdabc95657e1)
+## Customer Page
+![Screenshot (302)](https://github.com/user-attachments/assets/d892e369-f20f-4960-b5ea-117de5bba671)
+## View Products Page
+![Screenshot (304)](https://github.com/user-attachments/assets/69becbfd-5ad5-4556-a087-a9898d7c2ca0)
+![Screenshot (306)](https://github.com/user-attachments/assets/f0b1c326-b0b1-4965-8daf-a29992ff33c1)
+## Database 
+![Screenshot (328)](https://github.com/user-attachments/assets/af30dc1e-7519-4a05-9a05-764845914474)
+
