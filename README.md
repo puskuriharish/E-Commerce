@@ -62,18 +62,28 @@ The MySQL database for this project contains the following tables:
 5. Access the project through `http://localhost/ecommerce-system/`.
 
 ### Screenshots:
-## Signup Page 
+## User Registration Interface
+
 ![Screenshot (288)](https://github.com/user-attachments/assets/429bf3d6-1ab9-4519-a808-41f1860c411b)
-## Login Page 
+
+## User Login Interface 
 
 ![Screenshot (289)](https://github.com/user-attachments/assets/817a3c4e-8deb-415e-a03d-cde93cdf1cce)
-## Vendor Page
+
+## Vendor Dashboard
+
 ![Screenshot (290)](https://github.com/user-attachments/assets/9bd13760-9531-464a-819b-bdabc95657e1)
-## Customer Page
+
+## Customer Dashboard
+
 ![Screenshot (302)](https://github.com/user-attachments/assets/d892e369-f20f-4960-b5ea-117de5bba671)
-## View Products Page
+
+## Product Catalog
+
 ![Screenshot (304)](https://github.com/user-attachments/assets/69becbfd-5ad5-4556-a087-a9898d7c2ca0)
 ![Screenshot (306)](https://github.com/user-attachments/assets/f0b1c326-b0b1-4965-8daf-a29992ff33c1)
-## Database 
+
+## Database Schema Overview
+
 ![Screenshot (328)](https://github.com/user-attachments/assets/af30dc1e-7519-4a05-9a05-764845914474)
 
